@@ -211,3 +211,91 @@ p{
     padding: 5px;
     background: #000;
 }
+
+@media screen and (max-width: 1450px){
+    .nav .logo h1{
+       display: none;
+    }
+   
+
+    .nav ul{
+        display: flex;
+        justify-content: center;
+        list-style: none;
+
+    } 
+
+    .nav ul a{
+        text-decoration: none;
+        color:#FFF;
+        font-weight: 500;
+        font-size: 15px;
+    }
+
+    .filter, .total-valor {
+        display: none;
+    }
+
+    .content .content-left .info h1{
+        font-size: 40px;
+       margin-top: -300px;
+        width: 350px;
+        text-align: center;
+        color: #FFF;
+    }
+
+    .content .content-left .info p{
+        font-size: 20px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        width: 350px;
+        color: #FFF;   
+    }
+
+    .map-all {
+        background: #870000;
+        margin-left: 400px;
+        margin-top: 20px;
+        font-size: 17px;
+        font-weight: 400;
+    }
+
+    .content .content-right img{
+        width: 250px;
+        margin-left: 150px;
+        margin-top: 200px;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 100px;
+        margin-top: 500px;
+        
+    }
+
+    .carousel{
+        display: grid;
+        grid-template-columns: 100px 100px 100px;
+        margin-top: -50px;
+    }
+
+    .box{
+        border: 2px solid #870000;
+        border-radius: 5px;
+        width: 100px;
+        cursor: pointer;
+        background: #000;
+    }
+
+    h3{
+        color: #FFF;
+        font-size: 13px;
+        font-weight: 500;
+    }
+    
+    p{
+        color: #FFF;
+        font-weight: 400;
+    }
+    
+ 
+}
