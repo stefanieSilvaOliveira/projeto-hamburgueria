@@ -11,7 +11,6 @@
 
 🔴No botão filter ele consegue filtrar todas as opções de lanches disponíveis com composição vegana.
 
-⚫️ Também foi usando as linguagens CSS e HTML.</p>
-
+🔴 No desenvolvimento da interface precisei fazer o uso das tecnologias: HTML e CSS.
 
 <img src="https://github.com/stefanieSilvaOliveira/projeto-hamburgueria/assets/118211028/ff3fbac6-c9e0-45de-bda6-50af3bbbc038">
