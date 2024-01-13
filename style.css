@@ -255,7 +255,7 @@ p{
 
     .map-all {
         background: #870000;
-        margin-left: 400px;
+        margin-left: 480px;
         width: 150px;
         margin-top: 20px;
         font-size: 15px;
@@ -268,7 +268,7 @@ p{
 
     .content .content-right img{
         width: 250px;
-        margin-left: 60px;
+        margin-left: 110px;
         margin-top: 200px;
         display: flex;
         flex-direction: column;
